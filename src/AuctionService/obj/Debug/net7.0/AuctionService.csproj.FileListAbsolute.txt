@@ -23,3 +23,17 @@ D:\Dotnet\CarDeals\src\AuctionService\obj\Debug\net7.0\refint\AuctionService.dll
 D:\Dotnet\CarDeals\src\AuctionService\obj\Debug\net7.0\AuctionService.pdb
 D:\Dotnet\CarDeals\src\AuctionService\obj\Debug\net7.0\AuctionService.genruntimeconfig.cache
 D:\Dotnet\CarDeals\src\AuctionService\obj\Debug\net7.0\ref\AuctionService.dll
+D:\Dotnet\CarDeals\src\AuctionService\bin\Debug\net7.0\AutoMapper.dll
+D:\Dotnet\CarDeals\src\AuctionService\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Dotnet\CarDeals\src\AuctionService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Dotnet\CarDeals\src\AuctionService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dotnet\CarDeals\src\AuctionService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dotnet\CarDeals\src\AuctionService\bin\Debug\net7.0\Npgsql.dll
+D:\Dotnet\CarDeals\src\AuctionService\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Dotnet\CarDeals\src\AuctionService\obj\Debug\net7.0\AuctionService.csproj.AssemblyReference.cache
+D:\Dotnet\CarDeals\src\AuctionService\obj\Debug\net7.0\AuctionService.csproj.CopyComplete
+D:\Dotnet\CarDeals\src\AuctionService\bin\Debug\net7.0\Humanizer.dll
+D:\Dotnet\CarDeals\src\AuctionService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Dotnet\CarDeals\src\AuctionService\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Dotnet\CarDeals\src\AuctionService\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Dotnet\CarDeals\src\AuctionService\bin\Debug\net7.0\System.CodeDom.dll
