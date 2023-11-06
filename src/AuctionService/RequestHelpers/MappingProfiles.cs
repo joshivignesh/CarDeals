@@ -5,7 +5,7 @@ namespace AuctionService.RequestHelpers;
 
 public class MappingProfiles : Profile
 {
-    protected MappingProfiles()
+    public MappingProfiles()
     {
         CreateMap<Auction, AuctionDto>().IncludeMembers(x=>x.Item);
         CreateMap<Item, AuctionDto>();
@@ -14,7 +14,4 @@ public class MappingProfiles : Profile
         CreateMap<CreateAuctionDto, Item>();
     }
 
-    protected internal MappingProfiles(string profileName) : base(profileName)
-    {
-    }
 }
