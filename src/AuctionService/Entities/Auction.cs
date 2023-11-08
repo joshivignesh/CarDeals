@@ -3,7 +3,7 @@
 public class Auction
 {
     public Guid Id { get; set; }
-    public int ReservePrice { get; set; } =0;
+    public int ReservePrice { get; set; } = 0;
     public string Seller { get; set; }
     public string Winner { get; set; }
     public int? SoldAmount { get; set; }
@@ -14,5 +14,5 @@ public class Auction
     public Status Status { get; set; }
     public Item Item { get; set; }
 
-
+    public bool HasReservePrice() => ReservePrice > 0;
 }
