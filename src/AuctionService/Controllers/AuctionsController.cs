@@ -66,11 +66,11 @@ public class AuctionsController : ControllerBase
         new {auction.Id},_mapper.Map<AuctionDto>(auction));
     }
 
-    [HttpPut]
-    public async Task<ActionResult> UpdateAuction(Guid guid, UpdateAuctionDto updateAuctionDto)
+    [HttpPut("{Id}")]
+    public async Task<ActionResult> UpdateAuction(Guid id, UpdateAuctionDto updateAuctionDto)
     {
         var auction = await _context.Auctions.Include(x=> x.Item)
-                .FirstOrDefaultAsync(x=> x.Id == guid);
+                .FirstOrDefaultAsync(x=> x.Id == id);
 
         if(auction == null) return NotFound();
 
