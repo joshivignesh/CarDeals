@@ -84,4 +84,20 @@ public class AuctionsController : ControllerBase
         if(result) return Ok();
         return BadRequest("Problem saving changes");
     }
+
+    [HttpDelete]
+    public async Task<ActionResult> DeleteAuction(Guid id)
+    {
+        var auction = await _context.Auctions.FindAsync(id);
+        if (auction == null) return NotFound();
+        
+        //TODO : Check Seller = userName
+
+        _context.Auctions.Remove(auction);
+        var results = _context.SaveChanges() > 0;
+
+        if(!results) return BadRequest("COuld not update DB");
+
+        return Ok();
+    }
 }
