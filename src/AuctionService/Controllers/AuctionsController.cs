@@ -85,7 +85,7 @@ public class AuctionsController : ControllerBase
         return BadRequest("Problem saving changes");
     }
 
-    [HttpDelete]
+    [HttpDelete("{Id}")]
     public async Task<ActionResult> DeleteAuction(Guid id)
     {
         var auction = await _context.Auctions.FindAsync(id);
