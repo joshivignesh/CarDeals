@@ -41,3 +41,4 @@ D:\Dotnet\CarDeals\src\SearchService\obj\Debug\net7.0\refint\SearchService.dll
 D:\Dotnet\CarDeals\src\SearchService\obj\Debug\net7.0\SearchService.pdb
 D:\Dotnet\CarDeals\src\SearchService\obj\Debug\net7.0\SearchService.genruntimeconfig.cache
 D:\Dotnet\CarDeals\src\SearchService\obj\Debug\net7.0\ref\SearchService.dll
+D:\Dotnet\CarDeals\src\SearchService\bin\Debug\net7.0\Data\auctions.json
