@@ -42,3 +42,14 @@ D:\Dotnet\CarDeals\src\SearchService\obj\Debug\net7.0\SearchService.pdb
 D:\Dotnet\CarDeals\src\SearchService\obj\Debug\net7.0\SearchService.genruntimeconfig.cache
 D:\Dotnet\CarDeals\src\SearchService\obj\Debug\net7.0\ref\SearchService.dll
 D:\Dotnet\CarDeals\src\SearchService\bin\Debug\net7.0\Data\auctions.json
+D:\Dotnet\CarDeals\src\SearchService\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Dotnet\CarDeals\src\SearchService\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Dotnet\CarDeals\src\SearchService\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Dotnet\CarDeals\src\SearchService\bin\Debug\net7.0\Microsoft.Extensions.Http.dll
+D:\Dotnet\CarDeals\src\SearchService\bin\Debug\net7.0\Microsoft.Extensions.Http.Polly.dll
+D:\Dotnet\CarDeals\src\SearchService\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+D:\Dotnet\CarDeals\src\SearchService\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Dotnet\CarDeals\src\SearchService\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Dotnet\CarDeals\src\SearchService\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\Dotnet\CarDeals\src\SearchService\bin\Debug\net7.0\Polly.dll
+D:\Dotnet\CarDeals\src\SearchService\bin\Debug\net7.0\Polly.Extensions.Http.dll
