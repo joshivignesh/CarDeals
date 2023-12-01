@@ -1,3 +1,4 @@
+using System.Data;
 using System.Net;
 using MongoDB.Driver;
 using MongoDB.Entities;
@@ -28,6 +29,10 @@ app.Lifetime.ApplicationStarted.Register(async ()=>  {
      try
 {
     await DbInitiallizer.InitDb(app);
+}
+catch (DataException ex)
+{
+    Console.WriteLine(ex);
 }
 catch (Exception ex)
 {
