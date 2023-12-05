@@ -30,10 +30,6 @@ app.Lifetime.ApplicationStarted.Register(async ()=>  {
 {
     await DbInitiallizer.InitDb(app);
 }
-catch (DataException ex)
-{
-    Console.WriteLine(ex);
-}
 catch (Exception ex)
 {
     Console.WriteLine(ex);
