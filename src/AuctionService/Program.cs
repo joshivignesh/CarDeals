@@ -13,6 +13,10 @@ builder.Services.AddDbContext<AuctionDbContext>(opt =>
 });
 
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+builder.Services.AddMassTransit(x => {
+    x.UsingRabbitMq
+})
+
 builder.Services.AddScoped<IAuctionRepository, AuctionRepository>();
 
 var app = builder.Build();
