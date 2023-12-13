@@ -71,11 +71,13 @@ public class AuctionsController : ControllerBase
 
         if(!result)
         {
-            return BadRequest("Could not save changes to the DB");
+            // return BadRequest("Could not save changes to the DB");
+               return BadRequest("");
+
         }
 
         return CreatedAtAction(nameof(GetAuctionsById),
-        new {auction.Id},newAuction);
+             new {auction.Id},newAuction);
     }
 
     [HttpPut("{Id}")]
