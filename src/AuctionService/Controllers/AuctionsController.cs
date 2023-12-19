@@ -71,8 +71,7 @@ public class AuctionsController : ControllerBase
 
         if(!result)
         {
-            return BadRequest();
-            // return BadRequest("Could not save changes to the DB");
+            return BadRequest("Could not save changes to the DB");
         }
 
         return CreatedAtAction(nameof(GetAuctionsById),
