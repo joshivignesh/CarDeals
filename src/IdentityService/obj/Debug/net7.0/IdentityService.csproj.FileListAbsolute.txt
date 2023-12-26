@@ -68,3 +68,4 @@ D:\Vignesh\My Code workouts\Udemy Workouts\DotNet\CarDeals\src\IdentityService\o
 D:\Vignesh\My Code workouts\Udemy Workouts\DotNet\CarDeals\src\IdentityService\obj\Debug\net7.0\IdentityService.pdb
 D:\Vignesh\My Code workouts\Udemy Workouts\DotNet\CarDeals\src\IdentityService\obj\Debug\net7.0\IdentityService.genruntimeconfig.cache
 D:\Vignesh\My Code workouts\Udemy Workouts\DotNet\CarDeals\src\IdentityService\obj\Debug\net7.0\ref\IdentityService.dll
+D:\Vignesh\My Code workouts\Udemy Workouts\DotNet\CarDeals\src\IdentityService\bin\Debug\net7.0\keys\is-signing-key-E18879F99E4A046576EE11E5369F914E.json

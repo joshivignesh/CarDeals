@@ -86,3 +86,10 @@ D:\Vignesh\My Code workouts\Udemy Workouts\DotNet\CarDeals\src\AuctionService\ob
 D:\Vignesh\My Code workouts\Udemy Workouts\DotNet\CarDeals\src\AuctionService\obj\Debug\net7.0\AuctionService.csproj.CopyComplete
 D:\Vignesh\My Code workouts\Udemy Workouts\DotNet\CarDeals\src\AuctionService\obj\Debug\net7.0\AuctionService.genruntimeconfig.cache
 D:\Vignesh\My Code workouts\Udemy Workouts\DotNet\CarDeals\src\AuctionService\obj\Debug\net7.0\ref\AuctionService.dll
+D:\Vignesh\My Code workouts\Udemy Workouts\DotNet\CarDeals\src\AuctionService\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Vignesh\My Code workouts\Udemy Workouts\DotNet\CarDeals\src\AuctionService\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Vignesh\My Code workouts\Udemy Workouts\DotNet\CarDeals\src\AuctionService\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Vignesh\My Code workouts\Udemy Workouts\DotNet\CarDeals\src\AuctionService\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Vignesh\My Code workouts\Udemy Workouts\DotNet\CarDeals\src\AuctionService\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Vignesh\My Code workouts\Udemy Workouts\DotNet\CarDeals\src\AuctionService\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Vignesh\My Code workouts\Udemy Workouts\DotNet\CarDeals\src\AuctionService\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
